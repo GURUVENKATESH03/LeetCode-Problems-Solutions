@@ -1,0 +1,9 @@
+Intuition
+The problem requires determining whether string s is a subsequence of string t. One intuitive approach is to iterate through both strings simultaneously, checking if the characters in s are present in t in the same relative order.
+
+Approach
+The approach involves using two pointers, sPointer and tPointer, to iterate through both strings s and t. We compare the characters at the current positions of the pointers. If the characters match, we move the sPointer forward. Regardless, we always move the tPointer forward. If the sPointer reaches the end of s, it means that s is a subsequence of t, and we return true.
+
+Complexity
+Time complexity:O(n+m)
+Space complexity:O(1)
