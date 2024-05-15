@@ -1,0 +1,8 @@
+1. Read the value of 'k' from the user.
+2. Define the array 'array' with its elements.
+3. Display the original array.
+4. Create an empty ArrayList 'arr' to temporarily hold elements to be moved.
+5. Iterate over each element in the array from index 0 to the end:
+    a. If the current index is greater than or equal to 'k':
+        i. Swap the current element with the element at 'current_index - k'.
+6. Print the rotated array.
