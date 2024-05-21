@@ -1,0 +1,22 @@
+Certainly! Here is the explanation of the code.
+
+1. Input:
+   - The code starts by creating a scanner object to take input from the user.
+   - It also initializes an integer array `arr` with some predefined values.
+   - Then, it takes an integer input `target` from the user, which represents the target sum that we want to find a subarray for.
+
+2. Finding Subarray:
+   - The code iterates over each element of the array `arr` using a for loop.
+   - For each element `arr[i]`, it initializes `sum` to that element's value and checks if `sum` equals the `target`. If it does, it means that the current element itself forms a subarray with the sum equal to the target. In this case, it adds the start and end positions of this subarray to the `ar` ArrayList and prints it.
+   - If the sum is not equal to the target, it enters another nested loop starting from `i+1` to check for subarrays starting from the current element. It keeps adding elements to `sum` and checks if the sum equals the target. If it does, it adds the start and end positions of this subarray to `ar` and prints it.
+   - If no subarray with the target sum is found, it adds `-1` to `ar` and prints it.
+
+3. Output:
+   - The output is printed after each iteration of the loop. If a subarray with the target sum is found, it prints the start and end positions of that subarray. If not found, it prints `-1`.
+
+4. Explanation:
+   - The code aims to find a subarray within the given array `arr` whose sum equals the `target` value. It uses a brute-force approach by iterating through all possible subarrays and checking if their sum equals the target.
+
+5. Complexity:
+   - The time complexity of this approach is O(n^2), where n is the length of the array `arr`, because it uses nested loops to iterate over all possible subarrays.
+   - The space complexity is O(1) as it doesn't use any extra space proportional to the input size.
