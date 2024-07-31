@@ -9,6 +9,7 @@ This repo contains the solutions for the leetcode problems that i have solved.
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
