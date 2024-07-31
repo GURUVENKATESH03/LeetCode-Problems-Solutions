@@ -15,6 +15,7 @@ This repo contains the solutions for the leetcode problems that i have solved.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0056-merge-intervals) |
+| [0162-find-peak-element](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0162-find-peak-element) |
 | [3334-apple-redistribution-into-boxes](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
@@ -25,4 +26,8 @@ This repo contains the solutions for the leetcode problems that i have solved.
 |  |
 | ------- |
 | [3334-apple-redistribution-into-boxes](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
