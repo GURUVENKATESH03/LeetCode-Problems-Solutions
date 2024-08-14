@@ -5,6 +5,7 @@ This repo contains the solutions for the leetcode problems that i have solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
@@ -16,6 +17,7 @@ This repo contains the solutions for the leetcode problems that i have solved.
 | ------- |
 | [0056-merge-intervals](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0283-move-zeroes) |
 | [3334-apple-redistribution-into-boxes](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
