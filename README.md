@@ -34,4 +34,12 @@ This repo contains the solutions for the leetcode problems that i have solved.
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0162-find-peak-element) |
+## Math
+|  |
+| ------- |
+| [0856-consecutive-numbers-sum](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0856-consecutive-numbers-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0856-consecutive-numbers-sum](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0856-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
