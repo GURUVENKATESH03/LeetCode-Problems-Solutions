@@ -20,6 +20,7 @@ This repo contains the solutions for the leetcode problems that i have solved.
 | [0162-find-peak-element](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0283-move-zeroes) |
 | [0890-lemonade-change](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0890-lemonade-change) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3334-apple-redistribution-into-boxes](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
 ## Sorting
 |  |
@@ -48,4 +49,5 @@ This repo contains the solutions for the leetcode problems that i have solved.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0048-rotate-image) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
