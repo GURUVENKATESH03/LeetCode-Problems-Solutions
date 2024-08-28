@@ -15,6 +15,7 @@ This repo contains the solutions for the leetcode problems that i have solved.
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0283-move-zeroes) |
@@ -37,9 +38,14 @@ This repo contains the solutions for the leetcode problems that i have solved.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0048-rotate-image) |
 | [0856-consecutive-numbers-sum](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0856-consecutive-numbers-sum) |
 ## Enumeration
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0856-consecutive-numbers-sum) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
