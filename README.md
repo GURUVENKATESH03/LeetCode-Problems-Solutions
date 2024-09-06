@@ -22,6 +22,7 @@ This repo contains the solutions for the leetcode problems that i have solved.
 | [0890-lemonade-change](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/0890-lemonade-change) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3334-apple-redistribution-into-boxes](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/master/3334-apple-redistribution-into-boxes) |
+| .[Smallest Positive Number](https://github.com/GURUVENKATESH03/LeetCode-Problems-Solutions/tree/main/Smallest_Positive_Number). |
 ## Sorting
 |  |
 | ------- |
