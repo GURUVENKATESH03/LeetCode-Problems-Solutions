@@ -25,3 +25,38 @@ class Solution {
         return sum;
     }
 }
+
+/*
+
+Only passes 187 testCases.
+
+class Solution {
+    public int getLucky(String s, int k) {
+        return printTheSum(s,k);
+    }
+    static int printTheSum(String str,int k){
+        int n = str.length();
+        
+        int sum = 0;
+        for(int i = 0  ;i < n ;i++){
+            if(str.charAt(i)!=' '){
+                sum+=(int)( str.charAt(i)  - 'a' +1);
+            }
+        }
+        System.out.println(sum);
+        if(k > 1){
+            for(int i = 0 ;i < k ;i++){
+                int temp   = sum;
+                int prev = 0;
+                int newSum =0;
+                while(temp!=0){
+                    int dig = temp%10;
+                    newSum += dig + prev;
+                    temp/=10;
+                }
+                sum = newSum;
+            }
+        }
+        return sum;
+    }
+}*/
